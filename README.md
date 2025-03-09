@@ -2,6 +2,17 @@
 
 I am a Full-Stack Developer who is passionate about becoming one. I live in Indonesia, West Java. I love learning new technologies and continuing to develop my skills. Whether it's front-end design, back-end logic, or anything in between, I'm always eager to dive in and learn something new. Let's be a generation that understands technology and always develops new technology.
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since : 2022 (when I first started coding!)<br>📚 I'm currently learning : React, Node.js, and cloud technologies<br>🎯 Goals : To become a full-stack expert and deliver innovative tech solutions<br>🎲 Fun fact : I once spent 12 hours fixing a bug that turned out to be a missing semicolon!
+</p>
+
+###
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -114,14 +125,15 @@ I am a Full-Stack Developer who is passionate about becoming one. I live in Indo
 
 
 ## 🌐 Connect with Me
+###
 <p align="center">
   <a href="https://www.instagram.com/rexzgraphic_?igsh=Z3FoZHVvb3JoazJl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:rezzafairusnugrahaa@example.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  <a href="mailto:rezzafairusnugrahaa@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rezza-fairus-nugraha-64851333b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%2300A0DC.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/rezza-fairus-nugraha/" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </p>
