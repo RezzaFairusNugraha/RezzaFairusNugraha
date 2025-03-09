@@ -16,19 +16,90 @@ I am a Full-Stack Developer who is passionate about becoming one. I live in Indo
 </p>
 
 # 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
+<table>
+    <tr>
+       <td align="center" width="96">
+            <img src="https://github.com/user-attachments/assets/7eb30513-f818-4425-a384-599c7a28d678" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+            <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img
+          src="https://techstack-generator.vercel.app/react-icon.svg"
+          alt="React"
+          width="65"
+          height="65"
+        />
+            <br>React.js
+        </td>
+            <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NODE" />
+            <br>Node.Js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" />
+            <br>JQuery
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="JQuery" />
+            <br>Mongo
+        </td>
+            <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+            <br>Python
+        </td>
+        </td>
+            <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+            <br>Java
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+            <br>Figma
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+            <br>Linux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
+            <br>Kali
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
+            <br>Arch
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+            <br>Bash
+        </td>
+              <td align="center" width="96">
+            <img src="https://github.com/user-attachments/assets/ef7f63ca-47ec-4591-bbf0-ffe3d2a399ba" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+        </td>
+    </tr>
+</table>
 
 
 ## 🌐 Connect with Me
