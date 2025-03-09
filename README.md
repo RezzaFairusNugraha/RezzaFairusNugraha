@@ -2,9 +2,20 @@
 
 I am a Full-Stack Developer who is passionate about becoming one. I live in Indonesia, West Java. I love learning new technologies and continuing to develop my skills. Whether it's front-end design, back-end logic, or anything in between, I'm always eager to dive in and learn something new. Let's be a generation that understands technology and always develops new technology.
 
-<p>
-  <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 # 📊 Stats
