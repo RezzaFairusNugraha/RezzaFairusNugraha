@@ -142,12 +142,28 @@ flowchart LR
     <img src="assets/social-github-rezza.svg" alt="GitHub @rezzafairusnugraha"/>
   </a>
   &nbsp;
+  <a href="https://www.tiktok.com/@rezzafairusnugraha" target="_blank">
+    <img src="assets/social-tiktok-rezza.svg" alt="TikTok @rezzafairusnugraha"/>
+  </a>
+  &nbsp;
   <a href="mailto:rezzafairusnugrahaa@gmail.com">
     <img src="assets/social-email-rezza.svg" alt="Email Rezza Fairus"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/rexzgraphic_" target="_blank">
     <img src="assets/social-ig-rezza.svg" alt="Instagram @rexzgraphic_"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.tiktok.com/@rezzafairusnugraha" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%40rezzafairusnugraha-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Profile"/>
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@rezzafairusnugraha" target="_blank">
+    <img src="https://img.shields.io/badge/Followers-TikTok-00f2fe?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Followers"/>
   </a>
 </div>
 
