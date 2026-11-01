@@ -27,7 +27,7 @@
   <g transform="translate(6, 6)">
     <rect class="card-rect c-green" width="428" height="134"/>
     <circle class="p-dot" cx="22" cy="22" r="4.5" fill="#00ff9d"/>
-    <text class="tag" x="36" y="26" fill="#00ff9d">01 // FULLSTACK DEVELOPMENT</text>
+    <text class="tag" x="36" y="26" fill="#00ff9d">01 FULLSTACK DEVELOPMENT</text>
     <text class="title" x="20" y="54">🚀 Scalable Web Applications</text>
     <text class="desc" x="20" y="76">Building responsive interfaces and resilient backend systems</text>
     <text class="desc" x="20" y="94">with <tspan fill="#ffffff" font-weight="bold">React, Next.js, Node.js, Express &amp; PostgreSQL</tspan>.</text>
@@ -53,7 +53,7 @@
   <g transform="translate(444, 6)">
     <rect class="card-rect c-cyan" width="428" height="134"/>
     <circle class="p-dot" cx="22" cy="22" r="4.5" fill="#00f2fe"/>
-    <text class="tag" x="36" y="26" fill="#00f2fe">02 // DEVSECOPS &amp; CI/CD</text>
+    <text class="tag" x="36" y="26" fill="#00f2fe">02 DEVSECOPS &amp; CI/CD</text>
     <text class="title" x="20" y="54">🔐 Shift-Left Automated Security</text>
     <text class="desc" x="20" y="76">Integrating automated vulnerability scanning into the CI/CD pipeline:</text>
     <text class="desc" x="20" y="94"><tspan fill="#ffffff" font-weight="bold">SAST (SonarQube), DAST (OWASP ZAP) &amp; Trivy container scanning</tspan>.</text>
@@ -75,7 +75,7 @@
   <g transform="translate(6, 150)">
     <rect class="card-rect c-blue" width="278" height="142"/>
     <circle class="p-dot" cx="22" cy="22" r="4" fill="#38bdf8"/>
-    <text class="tag" x="34" y="26" fill="#38bdf8">03 // INFRASTRUCTURE</text>
+    <text class="tag" x="34" y="26" fill="#38bdf8">03 INFRASTRUCTURE</text>
     <text class="title" x="18" y="52">☁️ Cloud &amp; Containers</text>
     <text class="desc" x="18" y="74">Container orchestration and</text>
     <text class="desc" x="18" y="92">reproducible deployments via</text>
@@ -88,7 +88,7 @@
   <g transform="translate(296, 150)">
     <rect class="card-rect c-violet" width="284" height="142"/>
     <circle class="p-dot" cx="22" cy="22" r="4" fill="#8b5cf6"/>
-    <text class="tag" x="34" y="26" fill="#a78bfa">04 // CYBERSECURITY</text>
+    <text class="tag" x="34" y="26" fill="#a78bfa">04 CYBERSECURITY</text>
     <text class="title" x="18" y="52">🛡️ Pentesting &amp; CTFs</text>
     <text class="desc" x="18" y="74">Offensive pentesting, web audit,</text>
     <text class="desc" x="18" y="92">and vulnerability assessment with</text>
@@ -101,7 +101,7 @@
   <g transform="translate(592, 150)">
     <rect class="card-rect c-green" width="280" height="142"/>
     <circle class="p-dot" cx="22" cy="22" r="4" fill="#00ff9d"/>
-    <text class="tag" x="34" y="26" fill="#00ff9d">05 // ACTIVE JOURNEY</text>
+    <text class="tag" x="34" y="26" fill="#00ff9d">05 ACTIVE JOURNEY</text>
     <text class="title" x="18" y="52">✨ Crafting &amp; Securing</text>
     <text class="desc" x="18" y="74">Creating bugs since <tspan fill="#ffffff" font-weight="bold">2022</tspan> —</text>
     <text class="desc" x="18" y="92">and passionately fixing, patching,</text>
