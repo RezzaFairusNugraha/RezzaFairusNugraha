@@ -1,13 +1,13 @@
 <svg width="205" height="74" viewBox="0 0 205 74" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @keyframes glowPulse { 0%, 100% { stroke-opacity: 0.45; filter: drop-shadow(0 0 2px #00f2fe44); } 50% { stroke-opacity: 1; filter: drop-shadow(0 0 6px #00f2fe88); } }
+      @keyframes glowPulseRed { 0%, 100% { stroke-opacity: 0.45; filter: drop-shadow(0 0 2px #ff1e4244); } 50% { stroke-opacity: 1; filter: drop-shadow(0 0 6px #ff1e4299); } }
       @keyframes badgeFloat { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-2.5px); } }
-      .card-bg { fill: #070c18; stroke: #00f2fe; stroke-width: 1.5; rx: 12px; animation: glowPulse 3s infinite ease-in-out; }
+      .card-bg { fill: #0d070b; stroke: #ff1e42; stroke-width: 1.5; rx: 12px; animation: glowPulseRed 3s infinite ease-in-out; }
       .icon-wrap { animation: badgeFloat 2.4s infinite ease-in-out; }
-      .plat { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: bold; fill: #00f2fe; letter-spacing: 1px; }
+      .plat { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: bold; fill: #ff3366; letter-spacing: 1px; }
       .hand { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; font-weight: bold; fill: #ffffff; }
-      .sub { font-family: 'Fira Code', monospace; font-size: 9.5px; fill: #94a3b8; }
+      .sub { font-family: 'Fira Code', monospace; font-size: 9.5px; fill: #cbd5e1; }
     </style>
   </defs>
   <rect class="card-bg" x="2" y="2" width="201" height="70" rx="12"/>
