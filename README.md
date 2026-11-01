@@ -6,14 +6,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00FF9D&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Rezza+Fairus+Nugraha;%F0%9F%92%BB+Fullstack+Developer+%E2%80%A2+Scalable+Web+Systems;%E2%9A%99%EF%B8%8F%F0%9F%94%90+DevSecOps+Engineer+%E2%80%A2+Shift-Left+Pipelines;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%E2%80%A2+Pentesting+%26+Defense;%E2%9A%A1+Build+It+Fast.+Ship+It+Safe.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00FF9D&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Rezza+Fairus+Nugraha;%F0%9F%92%BB+Fullstack+Developer+%E2%80%A2+Scalable+Web+Systems;%E2%9A%99%EF%B8%8F%F0%9F%94%90+DevSecOps+Engineer+%E2%80%A2+Shift-Left+Security;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Specialist+%E2%80%A2+Pentesting+%26+Defense;%E2%9A%A1+Build+It+Fast.+Ship+It+Safe.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-DEVSECOPS%20%26%20CYBER-00ff9d?style=for-the-badge&labelColor=080c16&logo=dependabot&logoColor=00ff9d" alt="Security"/>
-  <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-ff1e42?style=for-the-badge&labelColor=080c16&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00f2fe?style=for-the-badge&labelColor=080c16&logo=githubactions&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/SECURITY-DEVSECOPS%20%26%20CYBER-00ff9d?style=for-the-badge&labelColor=090e1a&logo=dependabot&logoColor=00ff9d" alt="Security"/>
+  <img src="https://img.shields.io/badge/CLOUD-DOCKER%20%26%20K8S-00f2fe?style=for-the-badge&labelColor=090e1a&logo=docker&logoColor=00f2fe" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20ID-8b5cf6?style=for-the-badge&labelColor=090e1a&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=rezzafairusnugraha&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -27,13 +27,13 @@
 ```
 
 ```yaml
-name:      Rezza Fairus Nugraha
-location:  West Java, Indonesia 🇮🇩
+name: Rezza Fairus Nugraha
+location: West Java, Indonesia
 roles:
-  - Fullstack Developer      # crafting web apps from UI to database
-  - DevSecOps Engineer       # automating pipelines with security baked in
-  - Cybersecurity Enthusiast # breaking things to make them stronger
-motto:     "Build it fast, ship it safe."
+  - Fullstack Developer
+  - DevSecOps Engineer
+  - Cybersecurity Specialist
+motto: "Build it fast, ship it safe."
 ```
 
 <div align="center">
@@ -94,8 +94,8 @@ flowchart LR
     F --> G[📈 Real-time Monitoring<br/>Prometheus + Grafana]
     G -.Security Feedback.-> A
 
-    classDef stage fill:#0a0f1b,stroke:#00ff9d,stroke-width:1.5px,color:#f8fafc;
-    classDef monitor fill:#0a0f1b,stroke:#00f2fe,stroke-width:1.5px,color:#f8fafc;
+    classDef stage fill:#090e1a,stroke:#00ff9d,stroke-width:1.5px,color:#f8fafc;
+    classDef monitor fill:#090e1a,stroke:#00f2fe,stroke-width:1.5px,color:#f8fafc;
     class A,B,C,D,E,F stage;
     class G monitor;
 ```
@@ -105,16 +105,16 @@ flowchart LR
 ## 📊 Live Telemetry & GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezzafairusnugraha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080c16&title_color=00ff9d&icon_color=00f2fe&text_color=e2e8f0" alt="Rezza's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzafairusnugraha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c16&title_color=00ff9d&text_color=e2e8f0" alt="Rezza's Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezzafairusnugraha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090e1a&title_color=00ff9d&icon_color=00f2fe&text_color=e2e8f0" alt="Rezza's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzafairusnugraha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090e1a&title_color=00ff9d&text_color=e2e8f0" alt="Rezza's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=080c16&ring=00ff9d&fire=ff1e42&currStreakLabel=00ff9d" alt="Rezza's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=090e1a&ring=00ff9d&fire=00f2fe&currStreakLabel=00ff9d" alt="Rezza's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezzafairusnugraha&bg_color=080c16&color=00ff9d&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezzafairusnugraha&bg_color=090e1a&color=00ff9d&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -157,6 +157,6 @@ flowchart LR
 
 > *"Security is not a product, but a process."* — **Bruce Schneier**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00f2fe,100:ff1e42&height=110&section=footer" width="100%" alt="Cyber Waving Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00f2fe,100:090e1a&height=110&section=footer" width="100%" alt="Cyber Waving Footer" />
 
 </div>
