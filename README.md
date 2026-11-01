@@ -103,20 +103,9 @@ flowchart LR
 ---
 
 ## 📊 Live Telemetry & GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezzafairusnugraha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=090e1a&title_color=00ff9d&icon_color=00f2fe&text_color=e2e8f0" alt="Rezza's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzafairusnugraha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090e1a&title_color=00ff9d&text_color=e2e8f0" alt="Rezza's Top Languages" />
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=090e1a&ring=00ff9d&fire=00f2fe&currStreakLabel=00ff9d" alt="Rezza's GitHub Streak" />
 </div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezzafairusnugraha&bg_color=090e1a&color=00ff9d&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -150,8 +139,8 @@ flowchart LR
     <img src="assets/social-email-rezza.svg" alt="Email Rezza Fairus"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/rexzgraphic_" target="_blank">
-    <img src="assets/social-ig-rezza.svg" alt="Instagram @rexzgraphic_"/>
+  <a href="https://www.instagram.com/rxzafaiirss" target="_blank">
+    <img src="assets/social-ig-rezza.svg" alt="Instagram @rxzafairss"/>
   </a>
 </div>
 
