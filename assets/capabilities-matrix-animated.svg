@@ -1,0 +1,112 @@
+<svg width="880" height="300" viewBox="0 0 880 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pulseGlow1 { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 0.95; } }
+      @keyframes pulseGlow2 { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 0.95; } }
+      @keyframes pulseGlow3 { 0%, 100% { stroke-opacity: 0.35; } 50% { stroke-opacity: 0.95; } }
+      @keyframes dotPulse { 0%, 100% { transform: scale(1); opacity: 0.8; } 50% { transform: scale(1.3); opacity: 1; } }
+
+      .card-rect { fill: #080c16; rx: 10px; stroke-width: 1.4; }
+      .c-green { stroke: #00ff9d; animation: pulseGlow1 3s infinite ease-in-out; }
+      .c-cyan { stroke: #00f2fe; animation: pulseGlow2 3.5s infinite ease-in-out; }
+      .c-red { stroke: #ff1e42; animation: pulseGlow3 4s infinite ease-in-out; }
+      .c-white { stroke: #ffffff; animation: pulseGlow1 3.2s infinite ease-in-out; }
+
+      .p-dot { animation: dotPulse 2s infinite ease-in-out; }
+
+      .tag { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: bold; letter-spacing: 1px; }
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #f8fafc; }
+      .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 11.5px; fill: #94a3b8; }
+      .badge-txt { font-family: 'Fira Code', monospace; font-size: 9px; font-weight: bold; fill: #ffffff; }
+    </style>
+  </defs>
+
+  <!-- ================= TOP ROW: 2 EXPANDED DOMAINS ================= -->
+  
+  <!-- 01: FULLSTACK -->
+  <g transform="translate(6, 6)">
+    <rect class="card-rect c-green" width="428" height="134"/>
+    <circle class="p-dot" cx="22" cy="22" r="4.5" fill="#00ff9d"/>
+    <text class="tag" x="36" y="26" fill="#00ff9d">01 // FULLSTACK DEVELOPMENT</text>
+    <text class="title" x="20" y="54">🚀 Scalable Web Applications</text>
+    <text class="desc" x="20" y="76">Crafting modern, responsive UI and high-throughput server backends</text>
+    <text class="desc" x="20" y="94">with <tspan fill="#ffffff" font-weight="bold">React, Next.js, Node.js, Express &amp; PostgreSQL</tspan>.</text>
+
+    <!-- Tech Badges -->
+    <rect x="20" y="106" width="56" height="18" rx="4" fill="#052e16" stroke="#00ff9d" stroke-width="0.8"/>
+    <text class="badge-txt" x="48" y="119" text-anchor="middle" fill="#00ff9d">React</text>
+
+    <rect x="82" y="106" width="62" height="18" rx="4" fill="#052e16" stroke="#00ff9d" stroke-width="0.8"/>
+    <text class="badge-txt" x="113" y="119" text-anchor="middle" fill="#00ff9d">Next.js</text>
+
+    <rect x="150" y="106" width="62" height="18" rx="4" fill="#052e16" stroke="#00ff9d" stroke-width="0.8"/>
+    <text class="badge-txt" x="181" y="119" text-anchor="middle" fill="#00ff9d">Node.js</text>
+
+    <rect x="218" y="106" width="62" height="18" rx="4" fill="#052e16" stroke="#00ff9d" stroke-width="0.8"/>
+    <text class="badge-txt" x="249" y="119" text-anchor="middle" fill="#00ff9d">Express</text>
+
+    <rect x="286" y="106" width="78" height="18" rx="4" fill="#052e16" stroke="#00ff9d" stroke-width="0.8"/>
+    <text class="badge-txt" x="325" y="119" text-anchor="middle" fill="#00ff9d">PostgreSQL</text>
+  </g>
+
+  <!-- 02: DEVSECOPS -->
+  <g transform="translate(444, 6)">
+    <rect class="card-rect c-cyan" width="428" height="134"/>
+    <circle class="p-dot" cx="22" cy="22" r="4.5" fill="#00f2fe"/>
+    <text class="tag" x="36" y="26" fill="#00f2fe">02 // DEVSECOPS &amp; CI/CD</text>
+    <text class="title" x="20" y="54">🔐 Shift-Left Automated Security</text>
+    <text class="desc" x="20" y="76">Embedding automated vulnerability scanning into the pipeline:</text>
+    <text class="desc" x="20" y="94"><tspan fill="#ffffff" font-weight="bold">SAST (SonarQube), DAST (OWASP ZAP) &amp; Trivy container audits</tspan>.</text>
+
+    <!-- Tech Badges -->
+    <rect x="20" y="106" width="100" height="18" rx="4" fill="#082f49" stroke="#00f2fe" stroke-width="0.8"/>
+    <text class="badge-txt" x="70" y="119" text-anchor="middle" fill="#00f2fe">SonarQube (SAST)</text>
+
+    <rect x="126" y="106" width="112" height="18" rx="4" fill="#082f49" stroke="#00f2fe" stroke-width="0.8"/>
+    <text class="badge-txt" x="182" y="119" text-anchor="middle" fill="#00f2fe">OWASP ZAP (DAST)</text>
+
+    <rect x="244" y="106" width="84" height="18" rx="4" fill="#082f49" stroke="#00f2fe" stroke-width="0.8"/>
+    <text class="badge-txt" x="286" y="119" text-anchor="middle" fill="#00f2fe">Trivy Scan</text>
+  </g>
+
+  <!-- ================= BOTTOM ROW: 3 TARGETED CARDS ================= -->
+
+  <!-- 03: INFRASTRUCTURE -->
+  <g transform="translate(6, 150)">
+    <rect class="card-rect c-white" width="278" height="142"/>
+    <circle class="p-dot" cx="22" cy="22" r="4" fill="#ffffff"/>
+    <text class="tag" x="34" y="26" fill="#ffffff">03 // INFRASTRUCTURE</text>
+    <text class="title" x="18" y="52">☁️ Cloud &amp; Containers</text>
+    <text class="desc" x="18" y="74">Container orchestration and</text>
+    <text class="desc" x="18" y="92">reproducible deployments via</text>
+    <text class="desc" x="18" y="110"><tspan fill="#ffffff" font-weight="bold">Docker, K8s, Linux &amp; Terraform</tspan>.</text>
+    <rect x="18" y="118" width="86" height="16" rx="4" fill="#1e293b"/>
+    <text class="badge-txt" x="61" y="130" text-anchor="middle" fill="#e2e8f0">Docker + K8s</text>
+  </g>
+
+  <!-- 04: CYBERSECURITY -->
+  <g transform="translate(296, 150)">
+    <rect class="card-rect c-red" width="284" height="142"/>
+    <circle class="p-dot" cx="22" cy="22" r="4" fill="#ff1e42"/>
+    <text class="tag" x="34" y="26" fill="#ff3366">04 // CYBERSECURITY</text>
+    <text class="title" x="18" y="52">🛡️ Pentesting &amp; CTFs</text>
+    <text class="desc" x="18" y="74">Ethical hacking, identifying</text>
+    <text class="desc" x="18" y="92">web application vulnerabilities with</text>
+    <text class="desc" x="18" y="110"><tspan fill="#ff3366" font-weight="bold">Burp Suite &amp; OWASP Top 10</tspan>.</text>
+    <rect x="18" y="118" width="94" height="16" rx="4" fill="#360a14"/>
+    <text class="badge-txt" x="65" y="130" text-anchor="middle" fill="#ff4757">Burp Suite • CTF</text>
+  </g>
+
+  <!-- 05: EXPERIENCE -->
+  <g transform="translate(592, 150)">
+    <rect class="card-rect c-green" width="280" height="142"/>
+    <circle class="p-dot" cx="22" cy="22" r="4" fill="#00ff9d"/>
+    <text class="tag" x="34" y="26" fill="#00ff9d">05 // ACTIVE JOURNEY</text>
+    <text class="title" x="18" y="52">✨ Crafting Code</text>
+    <text class="desc" x="18" y="74">Creating bugs since <tspan fill="#ffffff" font-weight="bold">2022</tspan> —</text>
+    <text class="desc" x="18" y="92">and passionately fixing, patching,</text>
+    <text class="desc" x="18" y="110">and hardening them ever since!</text>
+    <rect x="18" y="118" width="92" height="16" rx="4" fill="#052e16"/>
+    <text class="badge-txt" x="64" y="130" text-anchor="middle" fill="#00ff9d">Since 2022 🚀</text>
+  </g>
+</svg>

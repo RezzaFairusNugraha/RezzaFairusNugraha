@@ -1,69 +1,64 @@
 <div align="center">
-  <img src="assets/hero-banner-cyber.svg" width="100%" alt="Rezza Fairus Nugraha — Red & White Cyber Security Banner"/>
+  <img src="assets/hero-banner-cyber.svg" width="100%" alt="Rezza Fairus Nugraha — Fullstack DevSecOps Banner"/>
 </div>
 
 <br/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=FF1E42&center=true&vCenter=true&width=750&lines=%F0%9F%87%AE%F0%9F%87%A9+Hi+there!+I'm+Rezza+Fairus+Nugraha;%F0%9F%92%BB+Fullstack+Developer+%E2%80%A2+Scalable+Web+Systems;%E2%9A%99%EF%B8%8F%F0%9F%94%90+DevSecOps+Engineer+%E2%80%A2+Shift-Left+Security;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Specialist+%E2%80%A2+Offensive+%26+Defensive;%E2%9A%A1+Build+It+Fast.+Ship+It+Safe.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00FF9D&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Rezza+Fairus+Nugraha;%F0%9F%92%BB+Fullstack+Developer+%E2%80%A2+Scalable+Web+Systems;%E2%9A%99%EF%B8%8F%F0%9F%94%90+DevSecOps+Engineer+%E2%80%A2+Shift-Left+Pipelines;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%E2%80%A2+Pentesting+%26+Defense;%E2%9A%A1+Build+It+Fast.+Ship+It+Safe.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-RED%20TEAM%20%26%20DEVSECOPS-ff1e42?style=for-the-badge&labelColor=0d070b&logo=dependabot&logoColor=ff1e42" alt="Security Focus"/>
-  <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-ffffff?style=for-the-badge&labelColor=0d070b&logo=googlemaps&logoColor=ff1e42" alt="Location"/>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEFENSE-ff1e42?style=for-the-badge&labelColor=0d070b&logo=shield&logoColor=white" alt="Defense Status"/>
-  <img src="https://komarev.com/ghpvc/?username=rezzafairusnugraha&label=PROFILE%20VIEWS&color=ff1e42&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/SECURITY-DEVSECOPS%20%26%20CYBER-00ff9d?style=for-the-badge&labelColor=080c16&logo=dependabot&logoColor=00ff9d" alt="Security"/>
+  <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-ff1e42?style=for-the-badge&labelColor=080c16&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDING-00f2fe?style=for-the-badge&labelColor=080c16&logo=githubactions&logoColor=white" alt="Status"/>
+  <img src="https://komarev.com/ghpvc/?username=rezzafairusnugraha&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## ⚡ `whoami` — Cyber Identity & Core Mission
+## 🧑‍💻 About Me
 
 ```bash
-┌──(rezza㉿redteam-secops)-[~]
-└─$ cat /etc/security_profile.yml
+┌──(rezza㉿github)-[~]
+└─$ whoami
 ```
 
 ```yaml
-identity:  Rezza Fairus Nugraha (rezzafairus)
-origin:    West Java, Indonesia 🇮🇩
-mandate:   "Security is not a blocker — it is a foundational engineering pillar."
+name:      Rezza Fairus Nugraha
+location:  West Java, Indonesia 🇮🇩
 roles:
-  - Fullstack Developer      # architecting resilient web applications from UI to database
-  - DevSecOps Engineer       # automating security checks at every CI/CD stage (shift-left)
-  - Cybersecurity Specialist # exploring offensive pentesting, OWASP Top 10 & defensive hardening
+  - Fullstack Developer      # crafting web apps from UI to database
+  - DevSecOps Engineer       # automating pipelines with security baked in
+  - Cybersecurity Enthusiast # breaking things to make them stronger
 motto:     "Build it fast, ship it safe."
 ```
 
-<br/>
-
-<!-- ANIMATED CYBER MANIFESTO HUD -->
 <div align="center">
-  <img src="assets/cyber-manifesto-animated.svg" width="100%" alt="Cyber Security Philosophy & Manifesto HUD"/>
+  <img src="assets/about-card-animated.svg" width="100%" alt="Rezza Fairus Nugraha — Philosophy & Mission"/>
 </div>
 
 <br/>
 
-<!-- ANIMATED CYBER CAPABILITIES & DOMAINS MATRIX -->
 <div align="center">
-  <img src="assets/cyber-capabilities-animated.svg" width="100%" alt="Fullstack, DevSecOps & Cybersecurity Capabilities"/>
+  <img src="assets/capabilities-matrix-animated.svg" width="100%" alt="Core Capabilities Matrix"/>
 </div>
 
 ---
 
-## 🛠️ Cyber Arsenal & Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### 💻 Fullstack & Modern Web
+### 💻 Fullstack Development
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express&perline=10" alt="Fullstack Stack" />
 
 ### 🗄️ Databases & Caching
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&perline=10" alt="Databases" />
 
-### ⚙️ DevOps, DevSecOps & Cloud
+### ⚙️ DevOps & DevSecOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,jenkins,terraform,ansible,nginx,prometheus,grafana&perline=10" alt="DevOps and CI/CD" />
 
 ### 🛡️ Cybersecurity, Pentesting & OS
@@ -99,8 +94,8 @@ flowchart LR
     F --> G[📈 Real-time Monitoring<br/>Prometheus + Grafana]
     G -.Security Feedback.-> A
 
-    classDef stage fill:#0d070b,stroke:#ff1e42,stroke-width:1.5px,color:#ffffff;
-    classDef monitor fill:#0d070b,stroke:#ffffff,stroke-width:1.5px,color:#ffffff;
+    classDef stage fill:#0a0f1b,stroke:#00ff9d,stroke-width:1.5px,color:#f8fafc;
+    classDef monitor fill:#0a0f1b,stroke:#00f2fe,stroke-width:1.5px,color:#f8fafc;
     class A,B,C,D,E,F stage;
     class G monitor;
 ```
@@ -110,21 +105,21 @@ flowchart LR
 ## 📊 Live Telemetry & GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezzafairusnugraha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d070b&title_color=ff1e42&icon_color=ffffff&text_color=cbd5e1" alt="Rezza's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzafairusnugraha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d070b&title_color=ff1e42&text_color=cbd5e1" alt="Rezza's Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rezzafairusnugraha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=080c16&title_color=00ff9d&icon_color=00f2fe&text_color=e2e8f0" alt="Rezza's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzafairusnugraha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080c16&title_color=00ff9d&text_color=e2e8f0" alt="Rezza's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=0d070b&ring=ff1e42&fire=ffffff&currStreakLabel=ff1e42" alt="Rezza's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=080c16&ring=00ff9d&fire=ff1e42&currStreakLabel=00ff9d" alt="Rezza's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezzafairusnugraha&bg_color=0d070b&color=ff1e42&line=ffffff&point=ff1e42&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezzafairusnugraha&bg_color=080c16&color=00ff9d&line=00f2fe&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
-## 🐍 Dynamic Contribution Grid Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <picture>
@@ -160,8 +155,8 @@ flowchart LR
 
 <div align="center">
 
-> *"Security is not a product, but a continuous process."* — **Bruce Schneier**
+> *"Security is not a product, but a process."* — **Bruce Schneier**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1e42,50:ffffff,100:0d070b&height=110&section=footer" width="100%" alt="Cyber Waving Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00f2fe,100:ff1e42&height=110&section=footer" width="100%" alt="Cyber Waving Footer" />
 
 </div>
