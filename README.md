@@ -106,7 +106,6 @@ flowchart LR
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=090e1a&ring=00ff9d&fire=00f2fe&currStreakLabel=00ff9d" alt="Rezza's GitHub Streak" />
 </div>
----
 
 ## 🐍 Contribution Snake
 
@@ -141,18 +140,6 @@ flowchart LR
   &nbsp;
   <a href="https://www.instagram.com/rxzafaiirss" target="_blank">
     <img src="assets/social-ig-rezza.svg" alt="Instagram @rxzafairss"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.tiktok.com/@rezzafairusnugraha" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%40rezzafairusnugraha-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Profile"/>
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@rezzafairusnugraha" target="_blank">
-    <img src="https://img.shields.io/badge/Followers-TikTok-00f2fe?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Followers"/>
   </a>
 </div>
 
