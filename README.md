@@ -1,161 +1,147 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="assets/hero-banner-v2.svg" width="100%" alt="M. Afriza Dwi I — Hero Banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00ff9d&height=220&section=header&text=Rezza%20Fairus%20Nugraha&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rezza+Fairus+Nugraha+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;DevSecOps+Engineer+%E2%9A%99%EF%B8%8F%F0%9F%94%90;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Build.+Ship.+Secure.+Repeat." alt="Typing SVG" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rezzafairusnugraha&label=Profile%20Views&color=00ff9d&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/rezzafairusnugraha?label=Followers&style=for-the-badge&color=302b63&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Location-West%20Java%2C%20Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+</p>
+
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hello%2C+I'm+M.+Afriza+Dwi+I+%E2%80%94+Web+Developer+Student;%F0%9F%9A%80+Building+Useful+Products+with+Code%2C+Creativity+%26+Curiosity;%F0%9F%8C%B1+Currently+Learning+Next.js%2C+TypeScript%2C+Go+%26+Docker;%F0%9F%92%A1+Enjoying+Laravel%2C+React.js%2C+JavaScript+%26+PHP" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SCHOOL-SMKN%204%20PADALARANG-f59e0b?style=for-the-badge&labelColor=090d16" alt="School"/>
-  <img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-10b981?style=for-the-badge&labelColor=090d16" alt="Location"/>
-  <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-8b5cf6?style=for-the-badge&labelColor=090d16" alt="Focus"/>
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-f43f5e?style=for-the-badge&labelColor=090d16" alt="Status"/>
-</p>
 
 ---
 
-## ⚡ `whoami` — About Me
+## 🧑‍💻 About Me
 
-```typescript
-const afriza = {
-  name: "M. Afriza Dwi I",
-  role: "Web Developer Student",
-  school: "SMK Negeri 4 Padalarang (2024 — Present)",
-  major: "Software & Game Development (PPLG / RPL)",
-  currentlyBuilding: "AI-powered apps & web projects",
-  currentMission: "Becoming a Full-Stack Developer",
-  currentlyLearning: ["Next.js", "TypeScript", "Go", "Docker"],
-  techIEnjoy: ["Laravel", "React.js", "JavaScript", "PHP"],
-};
+```bash
+┌──(rezza㉿github)-[~]
+└─$ whoami
 ```
 
-<div align="center">
-  <img src="assets/focus-cards-v2.svg" width="100%" alt="Core Focus Areas"/>
-</div>
+```yaml
+name:      Rezza Fairus Nugraha
+location:  West Java, Indonesia 🇮🇩
+roles:
+  - Fullstack Developer      # crafting web apps from UI to database
+  - DevSecOps Engineer       # automating pipelines with security baked in
+  - Cybersecurity Enthusiast # breaking things to make them stronger
+motto:     "Build it fast, ship it safe."
+```
+
+I'm a developer who believes **great software must also be secure software**. I build end-to-end web applications, automate CI/CD pipelines with security integrated at every stage (*shift-left*), and explore offensive & defensive security to understand how systems break — and how to protect them.
+
+- 🚀 **Building:** Scalable fullstack apps with **React, Next.js, Node.js & PostgreSQL**
+- 🔐 **Securing:** CI/CD pipelines with SAST, DAST, dependency & container scanning
+- ☁️ **Exploring:** Docker, Kubernetes, Infrastructure as Code & cloud security
+- 🛡️ **Hacking (ethically):** Web app pentesting, CTFs, and OWASP Top 10
+- ✨ **Creating bugs since:** 2022 — and fixing them ever since
+- 🎲 **Fun fact:** I once spent 12 hours hunting a bug that turned out to be a missing semicolon 😅
 
 ---
 
-## 🛠️ Animated Tech Arsenal & Hard Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/><br>
-            <b>JavaScript</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript"/><br>
-            <b>TypeScript</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React"/><br>
-            <b>React</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/nextjs-icon.svg" width="58" height="58" alt="Next.js"/><br>
-            <b>Next.js</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/nodejs-icon.svg" width="58" height="58" alt="Node.js"/><br>
-            <b>Node.js</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/php-icon.svg" width="58" height="58" alt="PHP"/><br>
-            <b>PHP</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/laravel-icon.svg" width="58" height="58" alt="Laravel"/><br>
-            <b>Laravel</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/go-icon.svg" width="60" height="60" alt="Go"/><br>
-            <b>Go</b>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-            <img src="assets/html2.gif" width="56" alt="HTML5"/><br>
-            <b>HTML5</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/css-icon.svg" width="58" height="58" alt="CSS3"/><br>
-            <b>CSS3</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL"/><br>
-            <b>MySQL</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python"/><br>
-            <b>Python</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="REST API"/><br>
-            <b>REST API</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker"/><br>
-            <b>Docker</b>
-        </td>
-        <td align="center" width="96">
-            <img src="assets/figma2.gif" width="52" alt="Figma"/><br>
-            <b>Figma</b>
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" alt="GitHub"/><br>
-            <b>GitHub</b>
-        </td>
-    </tr>
-</table>
+### 💻 Fullstack Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express&perline=10" alt="fullstack" />
 
-</div>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&perline=10" alt="databases" />
 
----
+### ⚙️ DevOps & DevSecOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,jenkins,terraform,ansible,nginx,prometheus,grafana&perline=10" alt="devops" />
 
-## 📊 GitHub Telemetry & Analytics
+### 🛡️ Cybersecurity & OS
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,py,java&perline=10" alt="security" />
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=afrizadwi21&show_icons=true&theme=radical&bg_color=080d1a&title_color=00f2fe&icon_color=10b981&text_color=e2e8f0&border_color=1e293b" height="165px" alt="Afriza GitHub Stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=afrizadwi21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&bg_color=080d1a&title_color=00f2fe&text_color=e2e8f0&border_color=1e293b" height="165px" alt="Afriza Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=afrizadwi21&theme=radical&background=080D1A&border=1E293B&ring=00F2FE&fire=10B981&currStreakLabel=00F2FE" height="165px" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afrizadwi21&theme=radical" width="98%" alt="Contribution Activity Graph"/>
-</div>
-
----
-
-## 🌐 Connect & Reach Me
-
-<div align="center">
-  <a href="mailto:afriza.dwi21@gmail.com">
-    <img src="assets/social-email-v2.svg" alt="Email afriza.dwi21@gmail.com"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/dw_afrizaaa" target="_blank">
-    <img src="assets/social-ig-v2.svg" alt="Instagram @dw_afrizaaa"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/afrizadwi" target="_blank">
-    <img src="assets/social-linkedin-v2.svg" alt="LinkedIn Afriza Dwi"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/afrizadwi21" target="_blank">
-    <img src="assets/social-github-v2.svg" alt="GitHub @afrizadwi21"/>
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logoColor=white" alt="SonarQube" />
 </p>
+
+### 🎨 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=10" alt="tools" />
+
+</div>
+
+---
+
+## 🔄 My DevSecOps Workflow
+
+```mermaid
+flowchart LR
+    A[💻 Code] --> B[🔍 SAST<br/>SonarQube]
+    B --> C[📦 Dependency Scan<br/>Snyk]
+    C --> D[🐳 Build & Container Scan<br/>Docker + Trivy]
+    D --> E[🧪 DAST<br/>OWASP ZAP]
+    E --> F[🚀 Deploy<br/>Kubernetes]
+    F --> G[📈 Monitor<br/>Prometheus + Grafana]
+    G -.feedback.-> A
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rezzafairusnugraha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezzafairusnugraha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9d" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=rezzafairusnugraha&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rezzafairusnugraha&bg_color=0d1117&color=00ff9d&line=302b63&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezzafairusnugraha/rezzafairusnugraha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezzafairusnugraha/rezzafairusnugraha/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rezzafairusnugraha/rezzafairusnugraha/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rezza-fairus-nugraha/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rezzafairusnugrahaa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.instagram.com/rexzgraphic_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/rezzafairusnugraha" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+> *"Security is not a product, but a process."* — Bruce Schneier
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
