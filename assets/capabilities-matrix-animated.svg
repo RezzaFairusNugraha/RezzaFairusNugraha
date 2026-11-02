@@ -79,7 +79,7 @@
     <text class="title" x="18" y="52">☁️ Cloud &amp; Containers</text>
     <text class="desc" x="18" y="74">Container orchestration and</text>
     <text class="desc" x="18" y="92">reproducible deployments via</text>
-    <text class="desc" x="18" y="110"><tspan fill="#ffffff" font-weight="bold">Docker, K8s, Linux &amp; Terraform</tspan>.</text>
+    <text class="desc" x="18" y="110"><tspan fill="#ffffff" font-weight="bold">Docker/Podman, K8s, Linux &amp; Terraform</tspan>.</text>
     <rect x="18" y="118" width="94" height="16" rx="4" fill="#0c1d33" stroke="#38bdf8" stroke-width="0.8"/>
     <text class="badge-txt" x="65" y="130" text-anchor="middle" fill="#38bdf8">Docker + K8s</text>
   </g>
