@@ -64,17 +64,6 @@ motto: "Build it fast, ship it safe."
 ### 🛡️ Cybersecurity, Pentesting & OS
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,py,java&perline=10" alt="Security & OS" />
 
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white" alt="Trivy" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logoColor=white" alt="SonarQube" />
-</p>
-
 ### 🎨 Developer Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=10" alt="Developer Tools" />
 
