@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SECURITY-DEVSECOPS%20%26%20CYBER-00ff9d?style=for-the-badge&labelColor=090e1a&logo=dependabot&logoColor=00ff9d" alt="Security"/>
-  <img src="https://img.shields.io/badge/CLOUD-DOCKER%20%26%20K8S-00f2fe?style=for-the-badge&labelColor=090e1a&logo=docker&logoColor=00f2fe" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/CLOUD-DOCKER/PODMAN%20%26%20K8S-00f2fe?style=for-the-badge&labelColor=090e1a&logo=docker&logoColor=00f2fe" alt="Cloud"/>
   <img src="https://img.shields.io/badge/LOCATION-WEST%20JAVA%2C%20ID-8b5cf6?style=for-the-badge&labelColor=090e1a&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://komarev.com/ghpvc/?username=rezzafairusnugraha&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views"/>
 </p>
